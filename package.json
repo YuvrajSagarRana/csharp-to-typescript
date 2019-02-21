@@ -1,0 +1,31 @@
+{
+  "name": "csharptotypescript",
+  "version": "1.0.0",
+  "description": "This is package to convert C# poco class to typescript where user have flexibility to configure the library to get desired output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvrajSagarRana/csharptotypescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "Csharp",
+    "npm",
+    "node.js",
+    "csharp",
+    "to",
+    "typescript",
+    "csharp",
+    "poco",
+    "csharptypescript"
+  ],
+  "author": "Yuvraj Sagar Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuvrajSagarRana/csharptotypescript/issues"
+  },
+  "homepage": "https://github.com/YuvrajSagarRana/csharptotypescript#readme"
+}
