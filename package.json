@@ -1,6 +1,6 @@
 {
-  "name": "csharptotypescript",
-  "version": "1.0.0",
+  "name": "csharp-to-typescript",
+  "version": "1.0.1",
   "description": "This is package to convert C# poco class to typescript where user have flexibility to configure the library to get desired output.",
   "main": "index.js",
   "scripts": {

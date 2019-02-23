@@ -40,7 +40,7 @@ const sourceCodeInString =   `public class Address
 }`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration());
-console.log(outputTypecript);
+console.log(outputTypescript);
 ```
 
 Output is
@@ -86,7 +86,7 @@ const sourceCodeInString =   `public class Address
 }`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration(preserveModifier, methodType,changeToInterface ));
-console.log(outputTypecript);
+console.log(outputTypescript);
 
 ```
 
@@ -116,7 +116,7 @@ const sourceCodeInString =   `public class Address
 }`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration(preserveModifier, methodType,changeToInterface ));
-console.log(outputTypecript);
+console.log(outputTypescript);
 
 ```
 
