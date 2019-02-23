@@ -8,17 +8,10 @@ csharp-to-typescript is most flexible and easy to use npm package which doesn't 
 
 ## install
 
-For npm version greater than 5.0
-
 ```
 npm i csharp-to-typescript
 ```
 
-For npm version less than 5.0
-
-```
-npm i csharp-to-typescript --save
-```
 
 ## How to use
 
