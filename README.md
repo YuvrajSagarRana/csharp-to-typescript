@@ -2,8 +2,6 @@
 
 csharp-to-typescript is most flexible and easy to use npm package which doesn't use any third party library for conversion. This package have various options while converting C# Poco to typescript.
 
-[![NPM version][npm-image]][npm-url]
-
 ## Dependencies
 
 - [Node.js](https://nodejs.org/en/download/)
@@ -31,7 +29,7 @@ const sourceCodeInString =   `public class Address
   public int Id {get; set;}
   public string Street { get; set; }
   public string City { get; set; }
-}
+}`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration());
 console.log(outputTypecript);
@@ -77,7 +75,7 @@ const sourceCodeInString =   `public class Address
   public int Id {get; set;}
   public string Street { get; set; }
   public string City { get; set; }
-}
+}`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration(preserveModifier, methodType,changeToInterface ));
 console.log(outputTypecript);
@@ -107,7 +105,7 @@ const sourceCodeInString =   `public class Address
   public int Id {get; set;}
   public string Street { get; set; }
   public string City { get; set; }
-}
+}`
 
 var outputTypescript = CsharpToTs(sourceCodeInString, getConfiguration(preserveModifier, methodType,changeToInterface ));
 console.log(outputTypecript);
